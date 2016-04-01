@@ -1,0 +1,54 @@
+@charset "utf-8";
+<header></header>
+
+a img {
+	border-style: none;
+}
+
+body {
+	Background-Color: #C0BABA;
+	text-align: left;
+	font-family: arial;
+}
+h1 {
+	margin-left: 37%;
+	font-style: underline;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: xx-large;
+}
+h2 {
+	margin-left: 37%;
+	font-style: normal;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: medium;
+}
+p {
+	text-align: justify;
+	margin-left: 37%;
+	width: 640px;
+	
+}
+table {
+	
+	text-align: justify;
+	margin-left: 37%;
+	width: 640px;
+	
+}
+#body_img {
+	text-align: Left;
+	float: none;
+	position: relative;
+	margin-left: 37%;
+	
+}
+li  {
+	margin-left: 40%;
+	
+}
+#sidebar {
+text-align: center;
+Float: left;
+width: 250px;
+background: #95B9C7;
+}
